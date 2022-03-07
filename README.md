@@ -1,10 +1,7 @@
-### Olá, seja bem vindo! 👋
-
-##
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" />
   
   <div id="badges">
     <a target="_blank" href="https://www.linkedin.com/in/vitor-guedesdev/">
@@ -17,13 +14,13 @@
   
   <img src="https://komarev.com/ghpvc/?username=vitorhugo-guedes&style=flat-square&color=blue" alt="views counter"/>
   
+  <h1>
+    Olá, seja bem vindo
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</div>
 
 ### :technologist: Sobre mim :
 
@@ -37,7 +34,13 @@ Eu sou um estudante de desenvolvimento Fullstack.
 
 - 📫 Me encontre aqui: [![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guedesdev/)
 
----
+##
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" />
+</div>
+
+##
 
 ### 🛠️ Linguagens :
 <div>
@@ -48,7 +51,7 @@ Eu sou um estudante de desenvolvimento Fullstack.
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 </div>
 
----
+##
 
 ### :godmode: Stats :
 <div>
