@@ -34,11 +34,6 @@ Eu sou um estudante de desenvolvimento Fullstack.
 
 - 📫 Me encontre aqui: [![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guedesdev/)
 
-##
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" />
-</div>
 
 ##
 
@@ -55,11 +50,15 @@ Eu sou um estudante de desenvolvimento Fullstack.
 
 ### :godmode: Stats :
 <div>
-  
   <img align="center" height="300" width="50%" src="https://github-readme-stats.vercel.app/api?username=vitorhugo-guedes&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
   
   <img align="center" height="200rem" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugo-guedes&layout=compact&theme=vision-friendly-dark&langs_count=10&count_private=true"/>
 </div>
 
+##
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" />
+</div>
 
 
