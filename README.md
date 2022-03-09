@@ -1,4 +1,4 @@
-<a href="https://github.com/vitorhugo-guedes/vitorhugo-guedes/blob/main/eng.md">Eng<a/>
+<a href="https://github.com/vitorhugo-guedes/vitorhugo-guedes/blob/main/eng.md">English version<a/>
 
 <div id="header" align="center">
   
