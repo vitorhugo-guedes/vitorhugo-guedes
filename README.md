@@ -25,7 +25,7 @@
 
 ### :technologist: Sobre mim :
 
-Eu sou um estudante de desenvolvimento Fullstack.
+Eu sou um estudante de desenvolvimento Fullstack. Graduando em Análise e Desenvolvimento de Sistemas
 
 - 🚀 Estou desenvolvendo projetos próprios, atualmente focados no Frontend enquanto aprendo sobre o mundo backend.
 
@@ -42,9 +42,9 @@ Eu sou um estudante de desenvolvimento Fullstack.
 <div>
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div>
 
 ##
