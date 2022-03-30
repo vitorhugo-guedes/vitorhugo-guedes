@@ -43,7 +43,7 @@ I am a FullStack student.
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
 </div>
 
 ##
