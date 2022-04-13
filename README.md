@@ -59,7 +59,7 @@ Eu sou um estudante de desenvolvimento Fullstack. Graduando em Análise e Desenv
 ##
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" />
+<!--   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" /> -->
 </div>
 
 
