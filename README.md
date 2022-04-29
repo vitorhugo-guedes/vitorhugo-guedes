@@ -2,7 +2,12 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" />
+<!--   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" /> -->
+  
+  <h1>
+    Olá, seja bem vindo
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   
   <div id="badges">
     <a target="_blank" href="https://www.linkedin.com/in/vitor-guedesdev/">
@@ -15,10 +20,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=vitorhugo-guedes&style=flat-square&color=blue" alt="views counter"/>
   
-  <h1>
-    Olá, seja bem vindo
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 
