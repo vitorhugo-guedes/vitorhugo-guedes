@@ -26,13 +26,13 @@
 
 ### :technologist: Sobre mim :
 
-Eu sou um estudante de desenvolvimento Fullstack. Graduando em Análise e Desenvolvimento de Sistemas
+Eu sou um desenvolvedor Frontend. Graduando em Análise e Desenvolvimento de Sistemas
 
-- 🚀 Estou desenvolvendo projetos próprios, atualmente focados no Frontend enquanto aprendo sobre o mundo backend.
+- 🚀 Estou desenvolvendo projetos próprios focados no Frontend enquanto aprendo sobre backend.
 
 - :book: Todos os dias eu utilizo a extensão daily.dev para ler sobre algo novo na tecnologia.
 
-- :man_teacher: Mesmo sendo estudante, eu adoro ajudar quem está começando, é só chamar.
+- :man_teacher: Eu adoro ajudar quem está começando, é só chamar.
 
 - 📫 Me encontre aqui: [![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guedesdev/)
 
