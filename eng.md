@@ -28,11 +28,11 @@
 
 I am a FullStack student.
 
-- 🚀 Actually, i'm developing frontend personnal projects as i learn about backend development.
+- 🚀 Actually, i'm developing frontend personal projects as i learn about backend development.
 
 - :book: Everyday i use daily.dev extension to read about something new in technology.
 
-- :man_teacher: Even being a student in this area, i love to help other people with web dev, just ask me.
+- :man_teacher: I love to help other people with web dev, just ask me.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guedesdev/)
 
