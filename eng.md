@@ -28,7 +28,7 @@
 
 I am a FullStack student.
 
-- 🚀 Actually, i'm developing frontend personal projects as i learn about backend development.
+- 🚀 I'm developing frontend personal projects as i learn about backend development.
 
 - :book: Everyday i use daily.dev extension to read about something new in technology.
 
