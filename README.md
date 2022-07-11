@@ -26,7 +26,7 @@
 
 ### :technologist: Sobre mim :
 
-Eu sou um desenvolvedor Frontend. Graduando em Análise e Desenvolvimento de Sistemas
+Eu sou um desenvolvedor Frontend. Cursando Análise e Desenvolvimento de Sistemas
 
 - 🚀 Estou desenvolvendo projetos próprios com foco em aprender o React.
 
